@@ -2,6 +2,7 @@
 
 
 **Description**
+
 This Java code implements a basic version of the classic Pong game using Swing for the graphical interface. It defines constants for game parameters, including window dimensions, rocket and ball sizes, and speeds. The game loop, managed by a separate thread, handles updates to the game state and rendering. Players control rockets using keyboard input, aiming to hit the ball and prevent it from passing their rocket. The game provides a simple yet engaging experience with intuitive controls and a familiar gameplay mechanic.
 
 
